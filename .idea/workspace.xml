@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ddcb025-4538-4409-9fc8-973f10481b97" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-b-prueba-master/01-arreglos/01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-b-prueba-master/01-arreglos/01.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2018-b-prueba-master/data/people.json" beforeDir="false" afterPath="$PROJECT_DIR$/2018-b-prueba-master/01-arreglos/people.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018-b-prueba-master/01-arreglos/01.ts" beforeDir="false" afterPath="$PROJECT_DIR$/2018-b-prueba-master/01-arreglos/01.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/01-arreglos/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="243">
-                <caret line="40" column="3" lean-forward="true" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="62" />
+              <first_editor relative-caret-position="-251">
+                <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="58" />
               </first_editor>
               <second_editor />
             </state>
@@ -34,8 +31,8 @@
       <file leaf-file-name="01.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/01-arreglos/01.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="483" lean-forward="true" selection-start-line="483" selection-end-line="483" />
+            <state relative-caret-position="-3094">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
@@ -167,12 +164,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543415632392</updated>
-      <workItem from="1543415635421" duration="4990000" />
+      <workItem from="1543415635421" duration="5186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4990000" />
+    <option name="totallyTimeSpent" value="5186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -245,8 +242,8 @@
     <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/01-arreglos/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="243">
-            <caret line="40" column="3" lean-forward="true" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="62" />
+          <first_editor relative-caret-position="-251">
+            <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="58" />
           </first_editor>
           <second_editor />
         </state>
@@ -254,8 +251,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/01-arreglos/01.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="483" lean-forward="true" selection-start-line="483" selection-end-line="483" />
+        <state relative-caret-position="-3094">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>

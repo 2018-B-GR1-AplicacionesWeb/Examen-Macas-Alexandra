@@ -50,24 +50,9 @@ buscardato('gender');
 
 
 // 2) Busque los tipos de "eye_color" en el arreglo `people.json`
-function leer() {
-    return new Promise((resolve) => {
-        fs.readFile('people.json', 'utf-8', (error, contenidoLeido) => {
-            if (error) {
-                resolve({
-                    mensaje: 'vacia',
+leer()
 
-                });
-            }
-            else {
-                resolve({
-                    mensaje: 'Si existe la Base',
-                    bdd: JSON.parse(contenidoLeido)
-                });
-            }
-        });
-    });
-}
+
 function buscardato(String) {
     return new Promise((resolve, reject) => { leer();
         fs.readFile('people.json', 'utf-8', (err, contenido) => {
@@ -277,24 +262,8 @@ respuestaabecedario('ale');
 //leer el people.json
 //buscar el mass y el height
 //funciont para sumar
-function leer() {
-    return new Promise((resolve) => {
-        fs.readFile('people.json', 'utf-8', (error, contenidoLeido) => {
-            if (error) {
-                resolve({
-                    mensaje: 'vacia',
+ leer();
 
-                });
-            }
-            else {
-                resolve({
-                    mensaje: 'Si existe la Base',
-                    bdd: JSON.parse(contenidoLeido)
-                });
-            }
-        });
-    });
-}
 function buscardato(String1:string, String2:string) {
     return new Promise((resolve, reject) => { leer();
 
@@ -442,24 +411,8 @@ main();
 //leero el jason
 //buscar los vehicles
 //si es verdadero suma conirtiendo ese string en int
-function leer() {
-    return new Promise((resolve) => {
-        fs.readFile('people.json', 'utf-8', (error, contenidoLeido) => {
-            if (error) {
-                resolve({
-                    mensaje: 'vacia',
+ leer()
 
-                });
-            }
-            else {
-                resolve({
-                    mensaje: 'Si existe la Base',
-                    bdd: JSON.parse(contenidoLeido)
-                });
-            }
-        });
-    });
-}
 function buscardato(String1:string) { const suma:number;
     return new Promise((resolve, reject) => { leer();
         fs.readFile('people.json', 'utf-8', (err, contenido) => {
@@ -481,4 +434,8 @@ function buscardato(String1:string) { const suma:number;
 
 buscardato('films');
     ////
+//## 8)  Revisar si todos los personajes han usado vehicles.
+leer();
+function verificar(){
 
+}
